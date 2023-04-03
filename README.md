@@ -1,16 +1,10 @@
 # flutter_chrome_extension
 
-A new Flutter project.
+Passos para instalar:
+- Para instalar você vai precisar ativar o modo desenvolvedor do seu navegador favorito.
+- Rode isso na pasta raiz do projeto:
+```$ flutter build web --web-renderer html```
+- Carregue a extensão sem compactação no seu navegador à partir da pasta 'build/web/' do projeto.
+- Assim que estiver pronto, entre em uma página do Mercado Livre Brasil e selecione um produto para ver ela funcionando.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Obrigado por Testar!!!
